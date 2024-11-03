@@ -1,2 +1,2 @@
-# ODE_Solving_in_Matlab_and_Simulink
-Tutorial files that present several methods to solve Ordinary Differential Equations (ODEs) with Matlab and Simulink. These files were used for Lecture 4 of the course AEROSP 470: Control of Aerospace Vehicles offered at the University of Michigan in the Winter 2021 semester.
+# Solving Ordinary Differential Equations (ODEs) Solving with Matlab and Simulink
+Tutorial files that present several methods to solve Ordinary Differential Equations (ODEs) with Matlab and Simulink. These files were used for Lecture 4 of the course AEROSP 470: Control of Aerospace Vehicles offered at the University of Michigan in the Winter 2021 semester. An associated video is available in this [YouTube link](https://youtu.be/VwlhxYTisk0).
